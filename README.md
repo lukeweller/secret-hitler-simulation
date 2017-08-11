@@ -1,1 +1,1 @@
-# SecretHitlerSimulation
+# secret-hitler-simulation
